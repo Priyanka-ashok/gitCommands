@@ -6,4 +6,4 @@ All the git commands
 
 ```git status```      Check status
 
-```git commit -m " " ```  Commits the changes with valid message
+```git commit -m "[commit message]" ```  Commits the changes with valid message
