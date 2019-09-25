@@ -16,8 +16,8 @@
 
 ``` git reset --hard k7728999003929099``` removes the last commit permanently
 
-```git rebase master ``` MAke Your branch on track with maaster
+```git rebase master ``` Make Your branch on track with maaster
  
- ```git branch -d branch_name``` [ delete]
+ ```git branch -d branch_name``` [ delete branch]
   
- ```git branch -D branch_name``` [Forced delete]
+ ```git branch -D branch_name``` [Forced delete branch]
