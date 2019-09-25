@@ -17,6 +17,12 @@
 ``` git reset --hard k7728999003929099``` removes the last commit permanently
 
 ```git rebase master ``` Make Your branch on track with maaster
+
+```git rebase --abort``` to quit rebasing
+
+```git rebase --continue``` to continue rebasing after solving conflicts
+
+```git rebse --skip``` skip the conflict and contine rebasing
  
  ```git branch -d branch_name``` [ delete branch]
   
