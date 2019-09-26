@@ -49,3 +49,5 @@
 ```git stash``` stashes the changes into a file 
 
 ```git stash pop ``` pops the stash changes back to the branch 
+
+```git cherry-pick <hashcommit>``` Adding the commit from one branch and apply it onto another.  
