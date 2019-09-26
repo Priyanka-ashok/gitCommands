@@ -1,5 +1,7 @@
 # gitCommands
 
+```git pull ``` Pull the changes made to your branch
+
 ```git pull origin master``` Pull master onto your branch
 
 ```git add * ```      Adds all the files 
