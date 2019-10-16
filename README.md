@@ -57,10 +57,15 @@ Scenarios:
 git Merge:
 
 ```git checkout branch-a```
+
 ```git merge branch-b```
-```git commit``` and ```git push``` 
-```git merge branch-c```
+
 ```git commit``` and ```git push```
+
+```git merge branch-c```
+
+```git commit``` and ```git push```
+
 Both the branch code will be pushed to `branch-a`
 
 
