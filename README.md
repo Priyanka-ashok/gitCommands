@@ -51,3 +51,16 @@
 ```git stash pop ``` pops the stash changes back to the branch 
 
 ```git cherry-pick <hashcommit>``` Adding the commit from one branch and apply it onto another.  
+
+Scenarios:
+
+git Merge:
+
+```git checkout branch-a```
+```git merge branch-b```
+```git commit``` and ```git push``` 
+```git merge branch-c```
+```git commit``` and ```git push```
+Both the branch code will be pushed to `branch-a`
+
+
