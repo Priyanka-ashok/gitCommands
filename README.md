@@ -54,7 +54,7 @@
 
 Scenarios:
 
-git Merge:
+1) git Merge:
 
 ```git checkout branch-a```
 
