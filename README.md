@@ -66,6 +66,13 @@ Scenarios:
 
 ```git commit``` and ```git push```
 
+later-- ```git checkout branch-a```
+     
+         ```git pull origin branch-b/branch-c``` 
+         if merge conflicts solve them
+         
+         ```git commit``` and ```git push```
+
 Both the branch code will be pushed to `branch-a`
 
 
