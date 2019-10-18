@@ -48,9 +48,17 @@
 
 ```git stash``` stashes the changes into a file 
 
+```git stash list``` list stack-order of stashed file changes
+
+```git stash drop``` discard the changes from top of stash stack
+
 ```git stash pop ``` pops the stash changes back to the branch 
 
 ```git cherry-pick <hashcommit>``` Adding the commit from one branch and apply it onto another.  
+
+```git diff``` diff of what is changed but not staged
+
+```git diff --staged``` diff of what is staged but not yet commited
 
 Scenarios:
 
