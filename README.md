@@ -35,6 +35,8 @@
  ```git checkout branch-name``` to shift to that branch
  
  ``` git reset --hard ``` To undo the staged Changes
+ 
+ ```git reset --hard branchname{10 minutes ago}``` to remove the last commit
 
 ```git show 758589hjfjffkkfjkf``` Content changes of the specified commit hash code
 
